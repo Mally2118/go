@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "купить арбуз",
+    "Complete": false
+  },
+  {
+    "id": 2,
+    "name": "приготовить арбуз",
+    "Complete": true
+  },
+  {
+    "id": 3,
+    "name": "продать арбуз",
+    "Complete": true
+  }
+]
